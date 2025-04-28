@@ -27,36 +27,44 @@ Our toolset includes solutions for:
 
 ## 📚 Main Projects
 
+### 🗂️ Configuration & Metadata
+
+- [**metrics-solvers**](https://github.com/crillab/metrics-solvers) — Predefined solver configurations ready for experimentation with Metrics and xcsp-launcher.
+- [**xcsp-metadata**](https://github.com/CPToolset/xcsp-metadata) — Metadata repository for XCSP3 instances (categories, domains, statistics).
+
+---
+
 ### 🛠️ Tools
 
 - [**xcsp-launcher**](https://github.com/CPToolset/xcsp-launcher) — Unified installer, builder, and launcher for XCSP3-compatible solvers.
-- [**metrics-solvers**](https://github.com/crillab/metrics-solvers) — Predefined solver configurations ready for experimentation with metrics and xcsp-launcher.
 
 ---
 
 ### 🌌 Universe — mUlti laNguage unIfied intErface foR conStraint solvErs
 
-A multi-language library providing generic interfaces to interact with combinatorial problem solvers.
+A multi-language library providing unified APIs to interact with combinatorial problem solvers.
 
-- [**Universe (C++)**](https://github.com/crillab/universe) — Unified C++ API for constraint programming solvers.
-- [**Juniverse (Java)**](https://github.com/crillab/juniverse) — Java unified interface for solvers.
-- [**CSUniverse (C#)**](https://github.com/crillab/CSUniverse) — C# implementation of the Universe API.
+- [**Universe (C++)**](https://github.com/crillab/universe) — Unified API for constraint programming solvers in C++.
+- [**Juniverse (Java)**](https://github.com/crillab/juniverse) — Unified API for solvers in Java.
+- [**CSUniverse (C#)**](https://github.com/crillab/CSUniverse) — Unified API for solvers in C#.
 
 ---
 
-### 🧩 Modeling, Metadata, and Parsing
+### 🧩 Parsing
 
-- [**xcsp-ide**](https://github.com/CPToolset/xcsp-ide) — VSCode extension for modeling constraint problems with [PyCSP3](https://pycsp.org).
-- [**xcsp-metadata**](https://github.com/CPToolset/xcsp-metadata) — Repository of instance metadata for the XCSP3 format.
-- [**Autis**](https://crillab.github.io/tootatis/autis/) — A library for parsing combinatorial problems.
+- [**Autis**](https://crillab.github.io/tootatis/autis/) — A lightweight library for parsing combinatorial problems.
+
+---
+
+### 🖋️ IDE
+
+- [**xcsp-ide**](https://github.com/CPToolset/xcsp-ide) — VSCode extension for modeling constraint problems using [PyCSP3](https://pycsp.org).
 
 ---
 
 ### ⚡ Parallel Solving
 
-- [**Panoramyx**](https://github.com/crillab/panoramyx) — A C++ framework for solving constraint programming problems in parallel.  
-  *(Built on top of the Universe C++ library.)*
-
+- [**Panoramyx**](https://github.com/crillab/panoramyx) — A C++ framework for solving constraint programming problems in parallel, based on Universe.
 
 ---
 
