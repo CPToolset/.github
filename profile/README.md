@@ -58,7 +58,7 @@ A multi-language library providing unified APIs to interact with combinatorial p
 
 ### 🖋️ IDE
 
-- [**xcsp-ide**](https://github.com/CPToolset/xcsp-ide) — VSCode extension for modeling constraint problems using [PyCSP3](https://pycsp.org).
+- [**xcsp-vscode**](https://github.com/CPToolset/xcsp-vscode) — VSCode extension for modeling constraint problems using [PyCSP3](https://pycsp.org).
 
 ---
 
