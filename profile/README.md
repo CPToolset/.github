@@ -30,7 +30,7 @@ Our toolset includes solutions for:
 ### 🗂️ Configuration & Metadata
 
 - [**metrics-solvers**](https://github.com/crillab/metrics-solvers) — Predefined solver configurations ready for experimentation with Metrics and xcsp-launcher.
-- [**xcsp-metadata**](https://github.com/CPToolset/xcsp-metadata) — Metadata repository for XCSP3 instances (categories, domains, statistics).
+- [**xcsp-metadata**](https://github.com/CPToolset/xcsp3-metadata) — Metadata repository for XCSP3 instances (categories, domains, statistics).
 
 ---
 
